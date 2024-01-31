@@ -1,0 +1,16 @@
+
+.button{
+    width: 100px;
+    height: 100px;
+    font-size: 3rem;
+    background-image: url("https://media1.tenor.com/m/nqNGxjp_PWQAAAAC/ateez-ateez-hongjoong.gif") ;
+    background-size: cover;
+    background-blend-mode: screen;
+    background-color: rgb(45, 45, 45);
+}
+
+body {
+    max-width: max-content;
+    margin: auto;
+    }
+    
